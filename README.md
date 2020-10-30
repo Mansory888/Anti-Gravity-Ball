@@ -5,6 +5,7 @@ At that time i was just messing around in Unity and C#. With little to none prog
 Features:
 
 1 Every level is randomly generated, from the number of obstacles to the background design.
+
 2 A progression system. (the more levels you beat the harder it gets, it’s still random just the parameters change to make it harder)
 3 Skins(cosmetics) that can be unlocked by progressing further into the game.
 
