@@ -13,5 +13,5 @@ At that time i was just messing around in Unity and C#. With little to none prog
 ### Some media:
 | Menu page     | Skins page    | Levels page   |
 | ------------- |:-------------:|:-------------:|
-| <img src="https://i.imgur.com/jfh4OUV.jpg" alt="drawing" width="200"/>      | <img src="https://i.imgur.com/EZpS8DB.jpg" alt="drawing" width="200"/>     
-| <img src="https://i.imgur.com/16XbeAE.jpg" alt="drawing" width="200"/>
+| <img src="https://i.imgur.com/jfh4OUV.jpg" alt="drawing" width="200"/>      | <img src="https://i.imgur.com/EZpS8DB.jpg" alt="drawing" width="200"/>   | <img src="https://i.imgur.com/16XbeAE.jpg" alt="drawing" width="200"/> | <img src="https://i.imgur.com/16XbeAE.jpg" alt="drawing" width="200"/> 
+
