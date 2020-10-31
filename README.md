@@ -11,4 +11,4 @@ At that time i was just messing around in Unity and C#. With little to none prog
 * The game runs only on the Unity version 2019.2.6f1 due to what I think is a bug in the newer versions. The bug consists of: when you are stopping the ball (freeze constrains) and then you release the button the ball is still frozen. And the most interesting part is that sometimes it works as intended but most of the time it doesn't.
 
 ### Some media:
-![alt text](https://imgur.com/a/yxVT6z8)
+![menu page](https://i.imgur.com/16XbeAE.jpg)
